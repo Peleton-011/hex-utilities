@@ -65,7 +65,7 @@ Some of the main challenges yet to be overcome would be:
 ### Useful resources
 
 - [InsanIT Archived article on RGB to RYB conversion](https://web.archive.org/web/20130525061042/www.insanit.net/tag/rgb-to-ryb/) - This was extremely informative on how a RGB to RYB conversion is calculated and had a great example of just that.
-
+- [Sessions' online color calculator](https://www.sessions.edu/color-calculator/) - This was inspiring and gave me a couple of ideas and things to consider.
 ## Author
 
 - GitHub - [Nico Diaz](https://github.com/Peleton-011)
